@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishcshah
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on Reddit Bots
 - 📫 How to reach me kcshah@protonmail.com
 
