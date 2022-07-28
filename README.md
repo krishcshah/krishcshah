@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishcshah
-- 👀 I’m interested in web development
+- 👀 I’m interested in Web-Dev and UI/UX
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Reddit Bots
+- 💞️ I’m looking to collaborate on Web-Dev
 - 📫 How to reach me kcshah@protonmail.com
 
 <!---
