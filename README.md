@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=300&center=true&vCenter=true&width=1050&height=60&lines=Hey!+%F0%9F%91%8B+I'm+Krish+Shah;An+Inspired+Web+Developer;A+Creative+Graphic+Designer;A+Python+Enthusiast;Building+Clean+UI%26UX;In-progress+Android+Developer;Innovative+Problem+Solver;In+Relationship+With+Runtime+Error)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="100%" src="https://cdn.pixabay.com/animation/2022/10/23/16/03/16-03-06-999_512.gif">
-<p align="center">.....</p>
+
+----
 <h2 align="center">Hi 👋, I'm Krish Shah</h2>
 <h3 align="center">A passionate web developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">  
@@ -66,6 +67,8 @@
    <a href="https://github.com/krishcshah"><img alt="Krish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krishcshah&custom_title=Krish's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
+
+----
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishcshah&layout=compact&theme=algolia" alt="Krish" /></a> </p>
