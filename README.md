@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **kcshah@protonmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CJ-H-Wa-3xDzpOw_cnNhub27nAqRN6BZ/view?usp=sharing](https://drive.google.com/file/d/1CJ-H-Wa-3xDzpOw_cnNhub27nAqRN6BZ/view?usp=sharing)
+- 📄 Know about my experiences [Download My Resume](https://drive.google.com/file/d/1CJ-H-Wa-3xDzpOw_cnNhub27nAqRN6BZ/view?usp=sharing)
 
 - ⚡ Fun fact **I love cats 🐈**
 
