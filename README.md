@@ -20,9 +20,9 @@
 
 - 🤝 I’m looking for help with [RedditMP4- A Download Bot For Reddit](https://www.reddit.com/user/RedditMP4Bot/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/krishcshah](https://github.com/krishcshah)
+- 👨‍💻 All of my projects are available at [github.com/krishcshah](https://github.com/krishcshah)
 
-- 📝 I regularly write articles on [https://krishcshah.medium.com/](https://krishcshah.medium.com/)
+- 📝 I regularly write articles on [krishcshah.medium.com/](https://krishcshah.medium.com/)
 
 - 💬 Ask me about **Frontend and UI/UX**
 
