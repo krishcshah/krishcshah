@@ -56,3 +56,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishcshah&show_icons=true&locale=en" alt="krishcshah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishcshah&" alt="krishcshah" /></p>
+
+<br/>
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishcshah&layout=compact&theme=algolia" alt="Krish" /></a> </p>
+
+-----
