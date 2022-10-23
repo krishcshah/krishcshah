@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/59c38674-cdde-416a-823a-653337397e59)](https://rishavchanda.io)
+[![MasterHead](https://media1.giphy.com/media/9mzDCPABQNGe6wh8Ez/giphy.gif)](https://github.com/krishcshah)
 
 <h1 align="center">Hi 👋, I'm Krish Shah</h1>
 <h3 align="center">A passionate web developer from India.</h3>
