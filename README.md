@@ -1,4 +1,4 @@
-<span><img align="right" alt="Coding" width="80%" height="300" src="https://media1.giphy.com/media/9mzDCPABQNGe6wh8Ez/giphy.gif"></span>
+<span><img align="right" alt="Coding" width="100%"src="https://media1.giphy.com/media/9mzDCPABQNGe6wh8Ez/giphy.gif"></span>
 
 <h1 align="center">Hi 👋, I'm Krish Shah</h1>
 <h3 align="center">A passionate web developer from India.</h3>
