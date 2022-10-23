@@ -59,6 +59,13 @@
 
 <br/>
 
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/krishcshah"><img alt="Krish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krishcshah&custom_title=Krish's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishcshah&layout=compact&theme=algolia" alt="Krish" /></a> </p>
