@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=300&center=true&vCenter=true&width=1050&height=60&lines=Hey!+%F0%9F%91%8B+I'm+Krish+Shah;An+Inspired+Web+Developer;A+Creative+Graphic+Designer;A+Python+Enthusiast;Building+Clean+UI%26UX;In-progress+Android+Developer;Innovative+Problem+Solver;In+Relationship+With+Runtime+Error)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="100%" src="https://cdn.pixabay.com/animation/2022/10/23/16/03/16-03-06-999_512.gif">
-<br/>
 ----
 <h2 align="center">Hi 👋, I'm Krish Shah</h2>
 <h3 align="center">A passionate web developer from India.</h3>
