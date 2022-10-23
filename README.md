@@ -12,7 +12,7 @@ theclass {
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishcshah&label=Profile%20views&color=0e75b6&style=flat" alt="krishcshah" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/redmisread" target="blank"><img src="https://img.shields.io/twitter/follow/krishcshah?logo=twitter&style=for-the-badge" alt="krishcshah" /></a> </p>
+<p align="left"> <a href="https://twitter.com/redmisread" target="blank"><img src="https://img.shields.io/twitter/follow/krishcshah?logo=twitter&style=for-the-badge" alt="RedMisread" /></a> </p>
 
 - 🔭 I’m currently working on **SkinSolve- A skin cancer detection tool**
 
