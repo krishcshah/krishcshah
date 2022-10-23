@@ -52,9 +52,18 @@
 <h3 align="left">Support:</h3>
 <p>&nbsp;<a href="https://www.buymeacoffee.com/krishcshah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krishcshah" /></a><a href="https://ko-fi.com/krishcshah"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="krishcshah" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishcshah&show_icons=true&locale=en&layout=compact" alt="krishcshah" /></p>
+## 💻 GitHub Profile Stats
+  <br/>
+  <p align="center">
+    <a href="https://github.com/priyanshpsalian/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshpsalian&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshpsalian&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishcshah&show_icons=true&locale=en" alt="krishcshah" /></p>
+----
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishcshah&" alt="krishcshah" /></p>
 
