@@ -55,10 +55,10 @@
 ## 💻 GitHub Profile Stats
   <br/>
   <p align="center">
-    <a href="https://github.com/priyanshpsalian/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshpsalian&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/krishcshah/github-readme-stats"><img alt="Krish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krishcshah&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshpsalian&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishcshah&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="krishcshah" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
