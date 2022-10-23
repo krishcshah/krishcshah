@@ -61,7 +61,7 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  ## ⚡ Recent GitHub Activity
   <br/>
    <a href="https://github.com/krishcshah"><img alt="Krish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krishcshah&custom_title=Krish's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
