@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate **OpenDukaan- A multi vendor ecommerce app built on react**
 
-- 🤝 I’m looking for help with [RedditMP4- A reddit bot to download media from reddit](https://www.reddit.com/user/RedditMP4Bot/)
+- 🤝 I’m looking for help with [RedditMP4- A Download Bot For Reddit](https://www.reddit.com/user/RedditMP4Bot/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishcshah](https://github.com/krishcshah)
 
