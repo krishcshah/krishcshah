@@ -67,7 +67,7 @@
 
 ## 🔥 Streak Stats
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishcshah&" alt="krishcshah" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishcshah&theme=algolia" alt="krishcshah" /></p>
 
 ----
 
