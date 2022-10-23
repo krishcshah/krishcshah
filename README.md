@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="100%" src="https://media1.giphy.com/media/9mzDCPABQNGe6wh8Ez/giphy.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=4000&pause=300&center=true&vCenter=true&width=800&height=60&lines=In+Relationship+With+Runtime+Error;An+Inspired+Web+Developer;A+Creative+Graphic+Designer;A+Python+Enthusiast;Building+Clean+UI%26UX;In-progress+Android+Developer;Innovative+Problem+Solver;Hey!+%F0%9F%91%8B+I'm+Krish+Shah;In+Relationship+With+Runtime+Error)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=4000&pause=300&center=true&vCenter=true&width=850&height=60&lines=Hey!+%F0%9F%91%8B+I'm+Krish+Shah;An+Inspired+Web+Developer;A+Creative+Graphic+Designer;A+Python+Enthusiast;Building+Clean+UI%26UX;In-progress+Android+Developer;Innovative+Problem+Solver;In+Relationship+With+Runtime+Error)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Krish Shah</h1>
 <h3 align="center">A passionate web developer from India.</h3>
