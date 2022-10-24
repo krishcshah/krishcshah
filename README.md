@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **kcshah@protonmail.com**
 
-- 📄 Know about my experiences [Download My Resume](https://novoresume.com/file/pdf/resume/get/1666542570553324de440d9bb11ecaaa5257be852794atug79i0zdqd0oy68v11kcudrbtq3m5n35lw58kztgw0bf8gnk7x5g9vl8A0l9ob0hl53rssrt97wulnkncwsxh0dlodv543igc7x6b8ve4k8mu5qyxrfls9s3rimbl1rw7fq6ejbnydb8dywutpihcmpnvzmA38nsbbn4195bzwpzyezj5A9mp8jib97ern8y5x7e)
+- 📄 Know about my experiences [Download My Resume](https://github.com/krishcshah/big-byte-league/raw/main/Krish's%20Resume.pdf)
 
 - ⚡ Fun fact **I love cats 🐈**
 
