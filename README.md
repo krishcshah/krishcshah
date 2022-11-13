@@ -6,7 +6,7 @@
 
 <h2 align="center">Hi 👋, I'm Krish Shah</h2>
 <h3 align="center">A passionate web developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">  
+// <img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">  
 <br>
 -
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishcshah&label=Profile%20views&color=0e75b6&style=flat" alt="krishcshah" /> </p>
