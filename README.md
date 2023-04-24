@@ -12,6 +12,8 @@
 
 <p align="left"> <a href="https://twitter.com/heyKrishShah" target="blank"><img src="https://img.shields.io/twitter/follow/heyKrishShah?logo=twitter&style=for-the-badge" alt="RedMisread" /></a> </p>
 
+- 🌐 [krishshah.xyz](hrrps://krishshah.xyz)
+
 - 🔭 I’m currently working on **SkinSolve- A skin cancer detection tool**
 
 - 🌱 I’m currently learning **Bootstrap and React JS**
@@ -31,7 +33,6 @@
 - 📄 Know about my experiences [Download My Resume](https://github.com/krishcshah/big-byte-league/raw/main/Krish's%20Resume.pdf)
 
 - ⚡ Fun fact **I love cats 🐈**
-
 ----
 
 ## 👨‍💻 My Coding Profiles:
