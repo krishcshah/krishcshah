@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/heyKrishShah" target="blank"><img src="https://img.shields.io/twitter/follow/heyKrishShah?logo=twitter&style=for-the-badge" alt="RedMisread" /></a> </p>
 
-- 🌐 [krishshah.xyz](hrrps://krishshah.xyz)
+- 🌐 [krishshah.xyz](https://krishshah.xyz)
 
 - 🔭 I’m currently working on **SkinSolve- A skin cancer detection tool**
 
